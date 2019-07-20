@@ -4,7 +4,7 @@ public class User {
 	private int id;
 
 	public int getId() {
-		return id;
+		return 1;
 	}
 
 	public void setId(int id) {
